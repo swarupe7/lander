@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  --font-montserrat: Montserrat;
+  --font-inter: Inter;
+  --font-jacques-francois: "Jacques Francois";
+  --font-inria-sans: "Inria Sans";
+  --font-size-31xl: 50px;
+  --font-size-21xl: 40px;
+  --font-size-11xl: 30px;
+  --font-size-lg: 18px;
+  --font-size-51xl: 70px;
+  --font-size-xl: 20px;
+  --color-white: #fff;
+  --color-gray-100: #fafafa;
+  --color-gray-200: #121010;
+  --color-snow-100: #fef8f8;
+  --color-dimgray: #6d6666;
+  --color-black: #000;
+  --color-indianred: #b56060;
+  --padding-8xl: 27px;
+  --br-3xs: 10px;
+  --br-base: 16px;
+}
+
+/*# sourceMappingURL=index.689f5f05.css.map */
